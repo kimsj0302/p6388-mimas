@@ -1,0 +1,6 @@
+template_id,number,color_id,shape_id,symbol,quantity
+numbers&colors,1,red,circle,●,1
+numbers&colors,2,blue,diamond,◆,1
+numbers&colors,3,yellow,triangle,▲,1
+numbers&colors,4,green,square,■,1
+numbers&colors,5,purple,star,★,1

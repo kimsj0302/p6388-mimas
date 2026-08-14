@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="63" height="88" viewBox="0 0 63 88">
+  <rect width="63" height="88" fill="#ffffff"/>
+  <text x="4" y="10" font-family="Barlow Condensed, Arial, sans-serif" font-size="10" text-anchor="middle" fill="{{color}}">{{number}}</text>
+  <g transform="rotate(180 31.5 44)">
+    <text x="4" y="10" font-family="Barlow Condensed, Arial, sans-serif" font-size="10" text-anchor="middle" fill="{{color}}">{{number}}</text>
+  </g>
+  <text x="31.5" y="54" font-family="Barlow Condensed, Arial, sans-serif" font-size="36" text-anchor="middle" fill="{{color}}">{{number}}</text>
+</svg>

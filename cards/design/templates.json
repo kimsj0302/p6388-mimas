@@ -1,0 +1,42 @@
+{
+  "default": "only-numbers",
+  "templates": {
+    "only-numbers": {
+      "file": "templates/only-numbers.svg",
+      "source": "https://docs.google.com/presentation/d/1uWNkcUTHYWvOiF4ozl20PYPNvRNmbprx5uoA5U0fJ-4/edit",
+      "font": {
+        "number": "Barlow Condensed, Arial, sans-serif"
+      },
+      "description": "Number-only card template."
+    },
+    "numbers&colors": {
+      "file": "templates/numbers-and-colors.svg",
+      "source": "https://docs.google.com/presentation/d/1M7nDAmvPBeXyex0D2j0hKxi5PLaNvWjsRcEuhAL7HaY/edit",
+      "font": {
+        "number": "Barlow Condensed, Arial, sans-serif",
+        "symbol": "Noto Sans Symbols 2, Noto Sans KR, Arial, sans-serif"
+      },
+      "description": "Number plus five-color symbol template. Top time/clock icons from the reference deck are intentionally ignored."
+    }
+  },
+  "colors": {
+    "red": "#e5484d",
+    "blue": "#3b82f6",
+    "yellow": "#f2c94c",
+    "green": "#27ae60",
+    "purple": "#9b5de5"
+  },
+  "symbols": {
+    "circle": "\u25cf",
+    "diamond": "\u25c6",
+    "triangle": "\u25b2",
+    "square": "\u25a0",
+    "star": "\u2605"
+  },
+  "defaults": {
+    "shape_count": 5,
+    "color_count": 5,
+    "shape_order": ["circle", "diamond", "triangle", "square", "star"],
+    "color_order": ["red", "blue", "yellow", "green", "purple"]
+  }
+}
